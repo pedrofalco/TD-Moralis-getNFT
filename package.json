@@ -1,0 +1,16 @@
+{
+    "name": "TD-Moralis-getNFT",
+    "version": "1.0.0",
+    "description": "Componente custom de TouchDesigner potenciado por JavaScript y Moralis para obtener toda la metadata de un NFT en la blockchain de Ethereum // Custom TouchDesigner component powered by JavaScript and Moralis to get all the metadata of an NFT on the Ethereum blockchain.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "express": "^4.18.2"
+    }
+}
